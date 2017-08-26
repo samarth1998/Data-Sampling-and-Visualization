@@ -1,0 +1,13 @@
+Data analysis for file gyro_Interrupt.txt
+Missing Samples: False
+Mean time Difference: 10.0000308062
+Standard Deviation: 0.000216934511663
+Maximum time difference: 10.001
+Minimum time difference: 9.998
+
+----------------------------
+Removed data from first 10 seconds
+Mean time Difference: 10.0000312578
+Standard Deviation: 0.000216298149601
+Maximum time difference: 10.001
+Minimum time difference: 9.999

@@ -1,0 +1,13 @@
+Data analysis for file acc_Interrupt.txt
+Missing Samples: False
+Mean time Difference: 10.0000308062
+Standard Deviation: 0.000201641518776
+Maximum time difference: 10.001
+Minimum time difference: 9.998
+
+----------------------------
+Removed data from first 10 seconds
+Mean time Difference: 10.0000312578
+Standard Deviation: 0.000196933717328
+Maximum time difference: 10.001
+Minimum time difference: 9.999

@@ -1,0 +1,13 @@
+Data analysis for file analog_polling.txt
+Missing Samples: False
+Mean time Difference: 10.0000262052
+Standard Deviation: 0.000159745192071
+Maximum time difference: 10.001
+Minimum time difference: 10.0
+
+----------------------------
+Removed data from first 10 seconds
+Mean time Difference: 10.0000262566
+Standard Deviation: 0.000159897332625
+Maximum time difference: 10.001
+Minimum time difference: 10.0

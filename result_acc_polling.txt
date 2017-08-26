@@ -1,0 +1,13 @@
+Data analysis for file acc_polling.txt
+Missing Samples: False
+Mean time Difference: 10.0001608322
+Standard Deviation: 0.00036737607526
+Maximum time difference: 10.001
+Minimum time difference: 10.0
+
+----------------------------
+Removed data from first 10 seconds
+Mean time Difference: 10.0001420355
+Standard Deviation: 0.000349086555306
+Maximum time difference: 10.001
+Minimum time difference: 10.0

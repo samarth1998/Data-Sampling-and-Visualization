@@ -1,0 +1,13 @@
+Data analysis for file gyro_polling.txt
+Missing Samples: False
+Mean time Difference: 10.0001834367
+Standard Deviation: 0.000387024119502
+Maximum time difference: 10.001
+Minimum time difference: 10.0
+
+----------------------------
+Removed data from first 10 seconds
+Mean time Difference: 10.0001812953
+Standard Deviation: 0.00038526267583
+Maximum time difference: 10.001
+Minimum time difference: 10.0
